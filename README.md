@@ -7,7 +7,7 @@ Package R pour accéder aux données de la **Seshat Global History Databank**.
 ```r
 # install.packages("devtools")
 devtools::install_github("TON_PSEUDO/seshatR")
-
+```
 ## Licence et Citation
 
 - **Code** : Ce package est sous licence MIT.
